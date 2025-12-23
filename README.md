@@ -72,7 +72,9 @@ Automatic build and hosting
 👤 Author
 
 Karne Siddhartha
+
 https://github.com/k-siddhartha-ai
+
 https://huggingface.co/Siddhartha001
 
 ⭐ If you find this useful
