@@ -78,3 +78,35 @@ Clone the repository and run:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+📂 Project Structure
+euclidean-manhattan-distance/
+├── app.py
+├── requirements.txt
+└── README.md
+
+📦 requirements.txt
+streamlit
+numpy
+matplotlib
+
+🌐 Deployment
+
+Deployed using Hugging Face Spaces
+
+SDK: Streamlit
+
+Automatic build and hosting enabled
+
+🎯 Learning Purpose
+
+This project focuses on building strong visual intuition for distance metrics
+used in machine learning. Instead of only formulas, it demonstrates how distances
+behave geometrically, helping learners understand algorithm behavior clearly.
+
+
+
+⭐ If you find this useful
+
+Give the repository a ⭐ and share it with others learning Machine Learning!
+
